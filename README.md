@@ -2,6 +2,7 @@
 # 👩‍👩‍👦Customer Market Segmentation
 Customer segmentation is the practice of dividing a company's customers into groups that reflect similarity among customers in each group. The goal of segmenting customers is to decide how to relate to customers in each segment in order to maximize the value of each customer to the business.
 
+![image](https://user-images.githubusercontent.com/60037478/173194393-676fcac9-b754-4f21-8fc5-1938310613df.png)
 
 
 
